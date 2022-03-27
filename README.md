@@ -13,3 +13,9 @@ You can choose the domain on which you want the data
 You can choose the number of record to be added into the file
 Remember every time you run the program it will create new file or overwrites the existing file
 Go ahead and run
+
+
+Creative.csv is the output of the code
+If you open that you will see columns name as:
+'Company', 'Website', 'Location', 'Contact', 'Rating', 'Review Count', 'Hourly Rate', 'Min Project Size', 'Employee Size', 'Verification', 'Company ID', 'Last Updated', 'Status'
+i'd added some extra columns which i think its useful, that were not in the sample.csv file that GetDefault team provided.
